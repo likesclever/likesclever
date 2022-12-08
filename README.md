@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me: mr.wangjianhui@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=mrwangjianhui)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwangjianhui&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwangjianhui)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technology Stack
 

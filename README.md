@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwangjianhui&count_private=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrwangjianhui&count_private=true)
 
 📫 How to reach me: mr.wangjianhui@gmail.com
 

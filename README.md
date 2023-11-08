@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- - 📫 How to reach me: likesclever@gmail.com -->
+📫 How to reach me: loveclever@foxmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=loveclever&include_all_commits=true&count_private=true&hide=stars,issues)
 
